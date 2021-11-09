@@ -1,0 +1,10 @@
+require: 'coffeescript/register'
+spec: 'test/**.coffee'
+extention: ['coffee']
+inline-diffs: true
+diff: true
+exit: true
+slow: true
+resursive: true
+reporter: 'min'
+ui: 'mocha-given'
