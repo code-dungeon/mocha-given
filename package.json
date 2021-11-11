@@ -22,7 +22,7 @@
   ],
   "config": {
     "cz-customizable": {
-      "config": "commit-config.js"
+      "config": ".github/commit-config.js"
     }
   },
   "scripts": {
